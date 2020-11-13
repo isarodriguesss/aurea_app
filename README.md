@@ -1,4 +1,3 @@
-# aurea_app
 <p align="center">
 <span>
 <img src="https://user-images.githubusercontent.com/62712545/99000078-7f96d900-2517-11eb-809c-c8052b5a2ac9.PNG" width="260" height="443" />
@@ -22,7 +21,7 @@
 |Alexia Naara |ansc@ic.ufal.br|
 
 ## O que essa plataforma oferece?
-- Catálogo de produtos clicáveis;
+- Catálogo interativo de de produtos, possibilitando que o cliente interaja com o produto e suas informações;
 - Filtro para categorizar os produtos;
 - Navegação de páginas;
 - Páginas específicas para cada produto contendo o preço, descrição e disponibilidade;
