@@ -10,29 +10,29 @@
 </span>
 </p>
 
-## Descrição do Projeto
-<p align="justify">É um portótipo de Mobile App da loja Áurea Cosméticos criado exclusivamente para o Hackatie. O projeto foi desenvolvido no React Native, na linguagem JavaScript, e utilizou o framework Expo para fazer a inteção com o Smartphone.</p>
+## Project description
+<p align="justify">It is a Mobile App from the Áurea Cosméticos store created exclusively for Hackatie. The project was developed in React Native, in the JavaScript language, and used the Expo framework to interact with the Smartphone.</p>
 
-## Equipe
-|nome|email|
+## Team
+|Name|Email|
 | -------- | -------- |
 |Isadora Barros Rodrigues|ibr@ic.ufal.br|
 |Karla Sophia Santana|kssc@ic.ufal.br|
 |Alexia Naara |ansc@ic.ufal.br|
 
-## O que essa plataforma oferece?
-- Catálogo interativo de de produtos, possibilitando que o cliente interaja com o produto e suas informações;
-- Filtro para categorizar os produtos;
-- Navegação de páginas;
-- Páginas específicas para cada produto contendo o preço, descrição e disponibilidade;
-- Página de preenchimento dos dados da compra, pelo próprio cliente, com botão para ser enviado para o WhatsApp da empresa.
+## What does this platform offer?
+- Interactive product catalog, allowing the customer to interact with the product and its information;
+- Filter to categorize products;
+- Navigation of pages;
+- Specific pages for each product containing the price, description and availability;
+- Page for filling in the purchase data, by the customer, with a button to be sent to the company's WhatsApp.
 
-## Pré-requisitos para rodar a aplicação
+## Prerequisites to run the application
 - React Native
 - Expo
 - Yarn
 
-## Instale as dependências
+## Install those dependencies
 - ```$ expo install expo-font @expo-google-fonts/anton```
 
 - ```yarn add @react-navigation/native```
